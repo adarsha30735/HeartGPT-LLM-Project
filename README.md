@@ -5,22 +5,12 @@ This project utilizes the FoodData Central database provided by the USDA. The da
 
 ## Table of Contents
 1. [FoodData Central Data](#1-fooddata-central-data)
-   - [Description](#description)
-   - [Source](#source)
-   - [Contents](#contents)
+   - 
 2. [Dataset](#dataset)
-3. [Fine-Tuning Objective](#fine-tuning-objective)
-4. [Output](#output)
-5. [Model Creation](#model-creation)
-6. [Final Model](#final-model)
 7. [Task 3: Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
 8. [Data Formatting](#data-formatting)
 9. [Example Data Entry](#example-data-entry)
 10. [Upload to Hugging Face](#upload-to-hugging-face)
-11. [Contributors and Fine-Tuning Reference](#contributors-and-fine-tuning-reference)
-12. [Fine-Tuning Process Overview](#fine-tuning-process-overview)
-13. [Implementation](#implementation)
-14. [Final Model](#final-model)
 15. [Fine-Tuning Script](#fine-tuning-script)
 
 
