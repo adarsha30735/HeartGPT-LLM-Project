@@ -10,7 +10,7 @@ This project utilizes the FoodData Central database provided by the USDA. The da
   - [Data Dictionary](https://fdc.nal.usda.gov/data-dictionary.html)
 - **Contents**: Detailed nutritional information for a variety of food items, organized across multiple categories.
 ## Main Contents
-1.  Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
+1. [Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
 2. [Data Formatting](#data-formatting)
 3. [Example Data Entry](#example-data-entry)
 4. [Upload to Hugging Face](#upload-to-hugging-face)
