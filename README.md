@@ -225,7 +225,6 @@ For detailed reference code, you can check the GitHub page [here](https://gist.g
 
 **Reference Code:** The fine-tuning code adapted from the Guanaco Dataset was instrumental in streamlining the training process for our specific dataset of food items. The structure, methodology, and techniques employed in the reference helped optimize our fine-tuning approach.
 
-**Collaboration:** The contributions from team members and experts allowed for valuable discussions regarding hyperparameter tuning, dataset preparation, and evaluation strategies. This collaborative effort enhanced the overall quality and effectiveness of the fine-tuning process.
 
 ### Implementation
 
