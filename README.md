@@ -3,10 +3,13 @@
 ## Database Details
 This project utilizes the FoodData Central database provided by the USDA. The database contains extensive information on food items and their nutrient profiles.
 
+### 1. FoodData Central Data
+- **Description**: The database includes over 19,310 different categories of general food.
+- **Source**:
+  - [Download datasets](https://fdc.nal.usda.gov/download-datasets.html)
+  - [Data Dictionary](https://fdc.nal.usda.gov/data-dictionary.html)
+- **Contents**: Detailed nutritional information for a variety of food items, organized across multiple categories.
 ## Table of Contents
-1. [FoodData Central Data](#1-fooddata-central-data)
-   - 
-2. [Dataset](#dataset)
 7. [Task 3: Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
 8. [Data Formatting](#data-formatting)
 9. [Example Data Entry](#example-data-entry)
@@ -14,12 +17,6 @@ This project utilizes the FoodData Central database provided by the USDA. The da
 15. [Fine-Tuning Script](#fine-tuning-script)
 
 
-### 1. FoodData Central Data
-- **Description**: The database includes over 19,310 different categories of general food.
-- **Source**:
-  - [Download datasets](https://fdc.nal.usda.gov/download-datasets.html)
-  - [Data Dictionary](https://fdc.nal.usda.gov/data-dictionary.html)
-- **Contents**: Detailed nutritional information for a variety of food items, organized across multiple categories.
 
 ## Project Purpose
 The purpose of this project is to model a customized large language model capable of categorizing food or food ingredients based on various features. The project leverages the FoodData Central database and organizes food items using attributes such as:
