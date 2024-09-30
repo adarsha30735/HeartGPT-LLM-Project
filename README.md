@@ -3,6 +3,27 @@
 ## Database Details
 This project utilizes the FoodData Central database provided by the USDA. The database contains extensive information on food items and their nutrient profiles.
 
+## Table of Contents
+1. [FoodData Central Data](#1-fooddata-central-data)
+   - [Description](#description)
+   - [Source](#source)
+   - [Contents](#contents)
+2. [Dataset](#dataset)
+3. [Fine-Tuning Objective](#fine-tuning-objective)
+4. [Output](#output)
+5. [Model Creation](#model-creation)
+6. [Final Model](#final-model)
+7. [Task 3: Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
+8. [Data Formatting](#data-formatting)
+9. [Example Data Entry](#example-data-entry)
+10. [Upload to Hugging Face](#upload-to-hugging-face)
+11. [Contributors and Fine-Tuning Reference](#contributors-and-fine-tuning-reference)
+12. [Fine-Tuning Process Overview](#fine-tuning-process-overview)
+13. [Implementation](#implementation)
+14. [Final Model](#final-model)
+15. [Fine-Tuning Script](#fine-tuning-script)
+
+
 ### 1. FoodData Central Data
 - **Description**: The database includes over 19,310 different categories of general food.
 - **Source**:
@@ -213,6 +234,28 @@ The entire structured dataset was then uploaded to Hugging Face under the follow
 ```bash
 adarsha30735/datafood
 ```
+
+
+### Script Overview
+
+- **Script Name:** `heartgpt_fine_tune_llama_2_in_google_colab.py`
+- **Purpose:** Fine-tunes the LLaMA-2-7B model to specialize in food categorization and health scoring based on the data provided.
+- **Environment:** The script is optimized to run in Google Colab, leveraging its computational resources for model training.
+
+### Key Features
+
+- Loads the dataset from Hugging Face.
+- Configures model parameters and hyperparameters for training.
+- Implements training loops, validation, and evaluation metrics.
+- Saves the fine-tuned model for future inference tasks.
+
+### How to Use
+
+1. Open Google Colab and create a new notebook.
+2. Upload the `heartgpt_fine_tune_llama_2_in_google_colab.py` script to your Colab environment.
+3. Run the script, ensuring that you have the necessary libraries and access to the dataset on Hugging Face.
+4. After training, the fine-tuned model will be saved under the name **llama-2-7b-heartgpt**.
+
 
 
 ## Contributors and Fine-Tuning Reference
