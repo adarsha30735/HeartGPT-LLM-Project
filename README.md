@@ -3,18 +3,18 @@
 ## Database Details
 This project utilizes the FoodData Central database provided by the USDA. The database contains extensive information on food items and their nutrient profiles.
 
-### 1. FoodData Central Data
+### FoodData Central Data
 - **Description**: The database includes over 19,310 different categories of general food.
 - **Source**:
   - [Download datasets](https://fdc.nal.usda.gov/download-datasets.html)
   - [Data Dictionary](https://fdc.nal.usda.gov/data-dictionary.html)
 - **Contents**: Detailed nutritional information for a variety of food items, organized across multiple categories.
 ## Table of Contents
-7. [Task 3: Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
-8. [Data Formatting](#data-formatting)
-9. [Example Data Entry](#example-data-entry)
-10. [Upload to Hugging Face](#upload-to-hugging-face)
-15. [Fine-Tuning Script](#fine-tuning-script)
+1. [Task 3: Structuring ChatGPT Responses and Uploading to Hugging Face](#task-3-structuring-chatgpt-responses-and-uploading-to-hugging-face)
+2. [Data Formatting](#data-formatting)
+3. [Example Data Entry](#example-data-entry)
+4. [Upload to Hugging Face](#upload-to-hugging-face)
+5. [Fine-Tuning Script](#fine-tuning-script)
 
 
 
