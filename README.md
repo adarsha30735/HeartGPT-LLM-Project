@@ -14,7 +14,7 @@ This project utilizes the FoodData Central database provided by the USDA. The da
 2. [Data Formatting](#data-formatting)
 3. [Example Data Entry](#example-data-entry)
 4. [Upload to Hugging Face](#upload-to-hugging-face)
-5. [Fine-Tuning Script](#fine-tuning-script)
+5. [Fine-Tuning Script](#script-overview)
 
 
 
