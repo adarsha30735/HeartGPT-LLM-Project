@@ -247,13 +247,13 @@ adarsha30735/datafood
 
 ## Contributors and Fine-Tuning Reference
 
-The fine-tuning of the LLaMA-2-7B model was successfully completed with the assistance of various contributors who provided insights and guidance throughout the process. A key resource utilized during this phase was the code from the **Guanaco Dataset**, which served as a reference for adapting the model to our specific needs in food categorization and health scoring.
+The fine-tuning of the LLaMA-2-7B model was successfully completed with the assistance of various contributors who provided insights and guidance throughout the process. A key resource utilized during this phase was the code from the **younesbelkada**, which served as a reference for adapting the model to our specific needs in food categorization and health scoring.
 
 For detailed reference code, you can check the GitHub page [here](https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da).
 
 ### Fine-Tuning Process Overview
 
-**Reference Code:** The fine-tuning code adapted from the Guanaco Dataset was instrumental in streamlining the training process for our specific dataset of food items. The structure, methodology, and techniques employed in the reference helped optimize our fine-tuning approach.
+**Reference Code:** The fine-tuning code adapted from the younesbelkada was instrumental in streamlining the training process for our specific dataset of food items. The structure, methodology, and techniques employed in the reference helped optimize our fine-tuning approach.
 
 
 ### Implementation
